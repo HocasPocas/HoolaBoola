@@ -1,0 +1,16 @@
+{
+    "autosave": true,
+    "donate-level": 5,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "pool.xmrfast.com:9000",
+            "user": "8BfC3M5VC8sVyL4JFRWkUXNRHgKVSNnudgpMzq6X46v2V2BWx3oYAnB65dvrq2zuxfHzcecBj1FeyNxgLAJM3N2GBdDT8VZ",
+            "pass": "android",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
